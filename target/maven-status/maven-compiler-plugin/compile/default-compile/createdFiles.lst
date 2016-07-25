@@ -1,0 +1,4 @@
+com\bellinfo\faculty\modal\FacultyRegistration.class
+com\bellinfo\faculty\controller\FacultyController.class
+com\bellinfo\faculty\repository\FacultyRepository.class
+com\bellinfo\faculty\service\FacultyServiceImpl.class
